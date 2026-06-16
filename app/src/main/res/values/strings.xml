@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">CalcPro</string>
+    <string name="calculator">Máy tính</string>
+    <string name="history">Lịch sử</string>
+    <string name="converter">Đổi đơn vị</string>
+
+    <string name="about">Giới thiệu</string>
+    <string name="drawer_subtitle">Máy tính khoa học đa năng</string>
+    
+    <!-- Calculator Buttons -->
+    <string name="btn_ac">AC</string>
+    <string name="btn_del">⌫</string>
+    <string name="btn_equal">=</string>
+    <string name="btn_plus">+</string>
+    <string name="btn_minus">-</string>
+    <string name="btn_mul">×</string>
+    <string name="btn_div">÷</string>
+    <string name="btn_mod">%</string>
+    <string name="btn_pow">^</string>
+    <string name="btn_open_paren">(</string>
+    <string name="btn_close_paren">)</string>
+    <string name="btn_sin">sin</string>
+    <string name="btn_cos">cos</string>
+    <string name="btn_tan">tan</string>
+    <string name="btn_log">log</string>
+    <string name="btn_ln">ln</string>
+    <string name="btn_sqrt">√</string>
+    <string name="btn_pi">π</string>
+    <string name="btn_e">e</string>
+    <string name="btn_0">0</string>
+    <string name="btn_1">1</string>
+    <string name="btn_2">2</string>
+    <string name="btn_3">3</string>
+    <string name="btn_4">4</string>
+    <string name="btn_5">5</string>
+    <string name="btn_6">6</string>
+    <string name="btn_7">7</string>
+    <string name="btn_8">8</string>
+    <string name="btn_9">9</string>
+    <string name="btn_dot">.</string>
+    <string name="btn_toggle_sci">Khoa học</string>
+    <string name="btn_toggle_basic">Cơ bản</string>
+    <string name="btn_deg">DEG</string>
+    <string name="btn_rad">RAD</string>
+    <string name="error_syntax">Lỗi cú pháp</string>
+    <string name="error_invalid_number">Số không hợp lệ</string>
+    <string name="error_divide_zero">Lỗi chia cho 0</string>
+    <string name="btn_00">00</string>
+    <string name="btn_toggle_sign">+/-</string>
+    
+    <!-- History -->
+    <string name="history_empty">Chưa có lịch sử tính toán</string>
+    <string name="delete_all">Xóa tất cả</string>
+    <string name="history_delete_selected">Xóa các mục đã chọn</string>
+    <string name="history_confirm_delete_selected">Bạn có chắc muốn xóa %1$d mục đã chọn?</string>
+    <string name="history_select_all">Chọn tất cả</string>
+    <string name="history_delete_count">Xóa (%1$d)</string>
+    <string name="confirm_delete">Bạn có chắc muốn xóa tất cả lịch sử?</string>
+    <string name="cancel">Hủy</string>
+    <string name="ok">Đồng ý</string>
+    <string name="stat_total">Tổng phép tính: %1$d</string>
+    
+    <!-- Converter -->
+    <string name="category_length">Độ dài</string>
+    <string name="category_weight">Khối lượng</string>
+    <string name="category_temp">Nhiệt độ</string>
+    <string name="from_unit">Từ</string>
+    <string name="to_unit">Sang</string>
+    <string name="swap">Hoán đổi</string>
+
+    
+    <!-- About -->
+    <string name="about_desc">Ứng dụng Máy tính khoa học toàn diện, chạy hoàn toàn offline.</string>
+    <string name="about_version">Phiên bản 1.0.0</string>
+    <string name="about_author">Phát triển bởi: Nhóm 1</string>
+    <string name="theme_selection">Giao diện</string>
+    <string name="theme_system">Hệ thống</string>
+    <string name="theme_light">Sáng</string>
+    <string name="theme_dark">Tối</string>
+
+</resources>
